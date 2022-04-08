@@ -18,6 +18,14 @@ exit(0)
 ```
 
 ## 💻 I work with
+<img src="img\linux.png" 
+width="32"
+height="32"
+title="Linux">
+<img src="img\vscode.png" 
+width="32"
+height="32"
+title="Visual Studio Code">
 <img src="img\java.png" 
 width="32"
 height="32"
