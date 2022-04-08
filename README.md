@@ -19,7 +19,10 @@ exit(0)
 
 ## I work with
 
-## University
+## Repos
+<details>
+<summary>University</summary>
+
 ### First
 #### First quarter 
 <a href="https://github.com/Xabierland/PB-ADA">
@@ -44,3 +47,5 @@ exit(0)
 </a>
 
 ### Second
+</details>
+
