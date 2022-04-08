@@ -22,6 +22,10 @@ exit(0)
 width="32"
 height="32"
 title="Linux">
+<img src="img\arch.png" 
+width="32"
+height="32"
+title="Arch Linux">
 <img src="img\vscode.png" 
 width="32"
 height="32"
