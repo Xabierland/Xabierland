@@ -18,7 +18,22 @@ exit(0)
 ```
 
 ## 💻 I work with
-![](https://github.com/Xabierland/Xabierland/blob/5f3717813c14bf10cda33cdbc3847bb6b4429b38/img/c-.png)
+<img src="img\java.png" 
+width="32"
+height="32"
+title="Java">
+<img src="img\python.png" 
+width="32"
+height="32"
+title="Python">
+<img src="img\letter-c.png" 
+width="32"
+height="32"
+title="C">
+<img src="img\programming.png" 
+width="32"
+height="32"
+title="Bash">
 
 ## 📂 Repos
 <details>
