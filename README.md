@@ -1,7 +1,7 @@
 # XABIͥERͣLͫAND
 ## Presentation
 
-##### xabierland@github:~$  cat presentation.sh
+xabierland@github:~$  cat presentation.sh
 ```bash
 #!/usr/bin/bash
 
