@@ -69,6 +69,10 @@ title="Bash">
 width="32"
 height="32"
 title="MySQL">
+<img src="img\docker.png"
+width="32"
+height="32"
+title="Docker">
 
 ### Programming languages
 
