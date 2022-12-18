@@ -40,16 +40,24 @@ width="32"
 height="32"
 title="Ubuntu">
 
-### IDEA
+### IDE
 
 <img src="img\vscode.png"
 width="32"
 height="32"
 title="Visual Studio Code">
+<img src="img\visual-basic.png"
+width="32"
+height="32"
+title="Visual Basic">
 <img src="img\intellij.png"
 width="32"
 height="32"
 title="IntelliJ">
+<img src="img\eclipse.png"
+width="32"
+height="32"
+title="Eclipse">
 
 ### Tools
 
