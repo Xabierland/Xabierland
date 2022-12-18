@@ -137,8 +137,6 @@ width="32"
 height="32"
 title="Assembly">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact)
-
 ## 📂 Repos
 
 <details>
