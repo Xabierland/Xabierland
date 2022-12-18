@@ -39,6 +39,10 @@ title="Arch Linux">
 width="32"
 height="32"
 title="Ubuntu">
+<img src="img\kali.png"
+width="32"
+height="32"
+title="Kali Linux">
 
 ### IDE
 
@@ -54,6 +58,10 @@ title="Visual Basic">
 width="32"
 height="32"
 title="IntelliJ">
+<img src="img\pycharm.png"
+width="32"
+height="32"
+title="PyCharm">
 <img src="img\eclipse.png"
 width="32"
 height="32"
@@ -61,10 +69,10 @@ title="Eclipse">
 
 ### Tools
 
-<img src="img\bash.png"
+<img src="img\terminal.png"
 width="32"
 height="32"
-title="Bash">
+title="Terminal">
 <img src="img\mysql.png"
 width="32"
 height="32"
@@ -73,6 +81,10 @@ title="MySQL">
 width="32"
 height="32"
 title="Docker">
+<img src="img\nginx.png"
+width="32"
+height="32"
+title="NGINX">
 
 ### Programming languages
 
@@ -88,10 +100,18 @@ title="Python">
 width="32"
 height="32"
 title="C">
+<img src="img\bash.png"
+width="32"
+height="32"
+title="Bash">
 <img src="img\php.png"
 width="32"
 height="32"
 title="PHP">
+<img src="img\asm.png"
+width="32"
+height="32"
+title="Assembly">
 
 
 ## 📂 Repos
