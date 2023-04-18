@@ -67,45 +67,6 @@ width="32"
 height="32"
 title="Eclipse">
 
-### Tools
-
-<img src="img\tools\terminal.png"
-width="32"
-height="32"
-title="Terminal">
-<img src="img\tools\powershell.png"
-width="32"
-height="32"
-title="Powershell">
-<img src="img\tools\mysql.png"
-width="32"
-height="32"
-title="MySQL">
-<img src="img\tools\mariadb.png"
-width="32"
-height="32"
-title="MariaDB">
-<img src="img\tools\percona.png"
-width="32"
-height="32"
-title="Percona">
-<img src="img\tools\docker.png"
-width="32"
-height="32"
-title="Docker">
-<img src="img\tools\apache.png"
-width="32"
-height="32"
-title="Apache">
-<img src="img\tools\nginx.png"
-width="32"
-height="32"
-title="NGINX">
-<img src="img\tools\wireshark.png"
-width="32"
-height="32"
-title="Wireshark">
-
 ### Programming languages
 
 <img src="img\pl\java.png"
@@ -136,10 +97,57 @@ title="PHP">
 width="32"
 height="32"
 title="Assembly">
-<img src="img\pl\sql-server.png"
+<img src="img\pl\sql.png"
 width="32"
 height="32"
 title="SQL">
+
+### Tools
+
+<img src="img\tools\terminal.png"
+width="32"
+height="32"
+title="Terminal">
+<img src="img\tools\powershell.png"
+width="32"
+height="32"
+title="Powershell">
+<img src="img\tools\gpt.png"
+width="32"
+height="32"
+title="GPT">
+<img src="img\tools\mysql.png"
+width="32"
+height="32"
+title="MySQL">
+<img src="img\tools\mariadb.png"
+width="32"
+height="32"
+title="MariaDB">
+<img src="img\tools\percona.png"
+width="32"
+height="32"
+title="Percona">
+<img src="img\tools\docker.png"
+width="32"
+height="32"
+title="Docker">
+<img src="img\tools\apache.png"
+width="32"
+height="32"
+title="Apache">
+<img src="img\tools\nginx.png"
+width="32"
+height="32"
+title="NGINX">
+<img src="img\tools\wireshark.png"
+width="32"
+height="32"
+title="Wireshark">
+<img src="img\tools\nmap.png"
+width="32"
+height="32"
+title="NMAP">
 
 ## 📂 Repos
 
