@@ -139,7 +139,7 @@ title="Assembly">
 <img src="img\pl\sql-server.png"
 width="32"
 height="32"
-title="sql">
+title="SQL">
 
 ## 📂 Repos
 
