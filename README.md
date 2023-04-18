@@ -136,6 +136,10 @@ title="PHP">
 width="32"
 height="32"
 title="Assembly">
+<img src="img\sql-server.png"
+width="32"
+height="32"
+title="sql">
 
 ## 📂 Repos
 
