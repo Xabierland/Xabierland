@@ -239,8 +239,8 @@ Second quarter
 <a href="https://github.com/Xabierland/ISO-Proyecto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
 </a>
-<a href="https://github.com/Xabierland/ISO-LAB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-LAB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
+<a href="https://github.com/Xabierland/ISO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
 </a>
 </details>
 <details>
