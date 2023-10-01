@@ -31,18 +31,6 @@ title="Windows">
 width="32"
 height="32"
 title="Linux">
-<img src="img\os\arch.png"
-width="32"
-height="32"
-title="Arch Linux">
-<img src="img\os\ubuntu.png"
-width="32"
-height="32"
-title="Ubuntu">
-<img src="img\os\kali.png"
-width="32"
-height="32"
-title="Kali Linux">
 
 ### IDE
 
