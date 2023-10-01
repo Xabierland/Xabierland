@@ -230,8 +230,8 @@ Second quarter
 <a href="https://github.com/Xabierland/IS-Proyecto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
 </a>
-<a href="https://github.com/Xabierland/IS-LAB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-LAB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
+<a href="https://github.com/Xabierland/IS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
 </a>
 <a href="https://github.com/Xabierland/BD-Proyecto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=BD-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
