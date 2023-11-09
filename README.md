@@ -169,12 +169,6 @@ title="NMAP">
 
 <details>
   <summary>⭐ Main </summary>
-    <a href="https://github.com/Xabierland/XabierForo">
-      <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=XabierForo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-    </a>
-    <a href="https://github.com/Xabierland/Keylogger">
-      <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=Keylogger&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-    </a>
 </details>
 
 <details>
