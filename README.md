@@ -30,7 +30,7 @@ title="Windows">
 <img src="img\os\linux.png"
 width="32"
 height="32"
-title="Linux">
+title="GNU/Linux">
 
 ### IDE
 
@@ -136,10 +136,22 @@ title="Percona">
 width="32"
 height="32"
 title="MongoDB">
+<img src="img\tools\redis.png"
+width="32"
+height="32"
+title="Redis">
+<img src="img\tools\elk.svg"
+width="32"
+height="32"
+title="ELK">
 <img src="img\tools\docker.png"
 width="32"
 height="32"
 title="Docker">
+<img src="img\tools\kubernetes.png"
+width="32"
+height="32"
+title="Kubernetes">
 <img src="img\tools\apache.png"
 width="32"
 height="32"
@@ -148,6 +160,18 @@ title="Apache">
 width="32"
 height="32"
 title="NGINX">
+<img src="img\tools\curl.png"
+width="32"
+height="32"
+title="curl">
+<img src="img\tools\zap.png"
+width="32"
+height="32"
+title="ZAP">
+<img src="img\tools\sqlmap.png"
+width="32"
+height="32"
+title="sqlmap">
 <img src="img\tools\mf.png"
 width="32"
 height="32"
@@ -231,11 +255,11 @@ Second quarter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/ISO-Proyecto)
 
 </details>
+
 <details>
 <summary> Third </summary>
 
 First quarter
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI)
 
@@ -244,7 +268,7 @@ First quarter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Tools&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI-Tools)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/ADSI)
-    
+
 Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD-LAB&show_icons=true&theme=transparent)](https://github.com/Xabierland/ABD-LAB)
