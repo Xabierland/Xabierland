@@ -181,7 +181,7 @@ title="NMAP">
 <details>
     <summary>📓 Learning</summary> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&theme=transparent)](https://github.com/Xabierland/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&theme=transparent)](https://github.com/Xabierland/proyectos-rust)
 
 </details>
 
