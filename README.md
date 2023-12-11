@@ -174,7 +174,7 @@ title="NMAP">
 <details>
   <summary>⚙ Config </summary>
     
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&theme=transparent)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&theme=transparent)(https://github.com/Xabierland/dotfiles)
 
 </details>
 
