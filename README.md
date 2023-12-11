@@ -1,5 +1,7 @@
 # XABIͥERͣLͫAND
 
+![](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
+
 ## 🧑🏼‍💻 Presentation
 
 xabierland@github:~$  cat presentation.sh
