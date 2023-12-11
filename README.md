@@ -288,6 +288,8 @@ Second quarter
 </details>
 </details>
 
-## 💬 Others
+## 📊 Stats
 
 ![](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact)](https://github.com/xabierland)
