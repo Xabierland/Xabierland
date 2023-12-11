@@ -173,16 +173,16 @@ title="NMAP">
 
 <details>
   <summary>⚙ Config </summary>
-    <a href="https://github.com/Xabierland/dotfiles">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-    </a>
+    
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&theme=transparent)
+
 </details>
 
 <details>
     <summary>📓 Learning</summary> 
-        <a href="https://github.com/Xabierland/proyectos-rust">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-        </a>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&theme=transparent)
+
 </details>
 
 <details>
@@ -192,96 +192,70 @@ title="NMAP">
 
 First quarter
 
-<a href="https://github.com/Xabierland/PB-ADA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-ADA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/PB-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-Python&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/PDSD-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PDSD-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-ADA&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-Python&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PDSD-Proyecto&show_icons=true&theme=transparent)
 
 Second quarter
 
-<a href="https://github.com/Xabierland/PMOO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PMOO&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/EC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PMOO&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EC&show_icons=true&theme=transparent)
+
 </details>
 <details>
 <summary> Second </summary>
 
 First quarter
 
-<a href="https://github.com/Xabierland/EDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/EDA-LAB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA-LAB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=R&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/AC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA-LAB&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=R&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AC&show_icons=true&theme=transparent)
 
 Second quarter
 
-<a href="https://github.com/Xabierland/IS-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/IS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/BD-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=BD-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/ISO-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/ISO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-Proyecto&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=BD-Proyecto&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&theme=transparent)
+
 </details>
 <details>
 <summary> Third </summary>
 
 First quarter
 
-<a href="https://github.com/Xabierland/SGSSI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/SGSSI-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/SGSSI-Tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Tools&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/ADSI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Proyecto&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Tools&show_icons=true&theme=transparent)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&theme=transparent)
     
 Second quarter
-    
-<a href="https://github.com/Xabierland/ABD-LAB">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD-LAB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD-LAB&show_icons=true&theme=transparent)
+
 </details>
 <details>
 <summary> Fourth </summary>
 
 First quarter
 
-<a href="https://github.com/Xabierland/AS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
-<a href="https://github.com/Xabierland/AS-Proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS-Proyecto&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Xabierland" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS&show_icons=true&theme=transparent)
 
 Second quarter
 
@@ -290,8 +264,8 @@ Second quarter
 
 ## 📊 Stats
 
-![Xabierland's GitHub stats](https://github-readme-stats.vercel.app/api?username=xabierland&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
+![Xabierland's GitHub stats](https://github-readme-stats.vercel.app/api?username=xabierland&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact&theme=transparent&locale=es)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
