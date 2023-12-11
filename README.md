@@ -290,8 +290,8 @@ Second quarter
 
 ## 📊 Stats
 
-![Xabierland's GitHub stats](https://github-readme-stats.vercel.app/api?username=xabierland&hide_rank=true&show_icons=true&include_all_commits=true)
+![Xabierland's GitHub stats](https://github-readme-stats.vercel.app/api?username=xabierland&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xabierland&layout=compact&theme=transparent)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
