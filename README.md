@@ -1,7 +1,5 @@
 # XABIͥERͣLͫAND
 
-![](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
-
 ## 🧑🏼‍💻 Presentation
 
 xabierland@github:~$  cat presentation.sh
@@ -289,3 +287,7 @@ Second quarter
 
 </details>
 </details>
+
+## 💬 Others
+
+![](https://komarev.com/ghpvc/?username=xabierland&color=blue&style=plastic&label=Visitas)
