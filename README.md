@@ -277,8 +277,6 @@ First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI-Proyecto)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Tools&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI-Tools)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/ADSI)
 
 Second quarter
