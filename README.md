@@ -290,6 +290,7 @@ Second quarter
 First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS&show_icons=true&theme=transparent)](https://github.com/Xabierland/AS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/AS-Proyecto)
 
 Second quarter
 
