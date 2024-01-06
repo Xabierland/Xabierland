@@ -279,6 +279,8 @@ First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/ADSI)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGI&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGI)
+
 Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD-LAB&show_icons=true&theme=transparent)](https://github.com/Xabierland/ABD-LAB)
