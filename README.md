@@ -283,7 +283,7 @@ First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGI&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGI&show_icons=true&theme=transparent)](https://github.com/Xabierland/OP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=OP&show_icons=true&theme=transparent)](https://github.com/Xabierland/OP)
 
 Second quarter
 
