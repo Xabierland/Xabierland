@@ -289,6 +289,10 @@ Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD-LAB&show_icons=true&theme=transparent)](https://github.com/Xabierland/ABD-LAB)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SW&show_icons=true&theme=transparent)](https://github.com/Xabierland/SW)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD&show_icons=true&theme=transparent)](https://github.com/Xabierland/SAD)
+
 </details>
 <details>
 <summary> Fourth </summary>
