@@ -293,9 +293,9 @@ Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD&show_icons=true&theme=transparent)](https://github.com/Xabierland/SAD)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD&show_icons=true&theme=transparent)](https://github.com/Xabierland/GP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=GP&show_icons=true&theme=transparent)](https://github.com/Xabierland/GP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGE&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGE)
 
 </details>
 <details>
