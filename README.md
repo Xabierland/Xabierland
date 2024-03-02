@@ -114,6 +114,8 @@ title="SQL">
 
 ### Tools
 
+#### Shell
+
 <img src="img\tools\bash.png"
 width="32"
 height="32"
@@ -126,14 +128,24 @@ title="ZSH">
 width="32"
 height="32"
 title="Powershell">
-<img src="img\tools\gpt.png"
+
+#### Version control
+
+<img src="img\tools\git.png"
 width="32"
 height="32"
-title="GPT">
-<img src="img\tools\gc.png"
+title="Git">
+<img src="img\tools\github.png"
 width="32"
 height="32"
-title="GitHub Copilot">
+title="GitHub">
+<img src="img\tools\gitlab.png"
+width="32"
+height="32"
+title="GitLab">
+
+#### Database
+
 <img src="img\tools\mysql.png"
 width="32"
 height="32"
@@ -146,6 +158,10 @@ title="MariaDB">
 width="32"
 height="32"
 title="Percona">
+<img src="img\tools\postgre.png"
+width="32"
+height="32"
+title="PostgreSQL">
 <img src="img\tools\sqlite.png"
 width="32"
 height="32"
@@ -162,6 +178,20 @@ title="Redis">
 width="32"
 height="32"
 title="ELK">
+
+#### IA
+
+<img src="img\tools\gpt.png"
+width="32"
+height="32"
+title="GPT">
+<img src="img\tools\gc.png"
+width="32"
+height="32"
+title="GitHub Copilot">
+
+### DevOps
+
 <img src="img\tools\docker.png"
 width="32"
 height="32"
@@ -178,6 +208,9 @@ title="Apache">
 width="32"
 height="32"
 title="NGINX">
+
+### Security
+
 <img src="img\tools\curl.png"
 width="32"
 height="32"
