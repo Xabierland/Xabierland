@@ -1,3 +1,5 @@
+<!--markdownlint-disable-file MD033-->
+<!--markdownlint-disable-file MD045-->
 # XABIͥERͣLͫAND
 
 ## 🧑🏼‍💻 Presentation
@@ -31,6 +33,10 @@ title="Windows">
 width="32"
 height="32"
 title="GNU/Linux">
+<img src="img\os\bsd.png"
+width="32"
+height="32"
+title="BSD">
 
 ### IDE
 
@@ -209,13 +215,13 @@ title="NMAP">
 
 <details>
   <summary>⚙ Config </summary>
-    
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&theme=transparent)](https://github.com/Xabierland/dotfiles)
 
 </details>
 
 <details>
-    <summary>📓 Learning</summary> 
+    <summary>📓 Learning</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&theme=transparent)](https://github.com/Xabierland/proyectos-rust)
 
