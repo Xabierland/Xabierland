@@ -190,7 +190,7 @@ width="32"
 height="32"
 title="GitHub Copilot">
 
-### DevOps
+#### DevOps
 
 <img src="img\tools\docker.png"
 width="32"
@@ -208,8 +208,12 @@ title="Apache">
 width="32"
 height="32"
 title="NGINX">
+<img src="img\tools\gcp.svg"
+width="32"
+height="32"
+title="Google Cloud Platform">
 
-### Security
+#### Security
 
 <img src="img\tools\curl.png"
 width="32"
