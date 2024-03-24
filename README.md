@@ -248,6 +248,9 @@ title="NMAP">
 
 <details>
   <summary>⭐ Main </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=MTProxy&show_icons=true&theme=transparent)](https://github.com/Xabierland/MTProxy)
+    
 </details>
 
 <details>
