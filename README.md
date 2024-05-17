@@ -265,7 +265,7 @@ title="NMAP">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=LeetCode&show_icons=true&theme=transparent)](https://github.com/Xabierland/LeetCode)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=proyectos-rust&show_icons=true&theme=transparent)](https://github.com/Xabierland/proyectos-rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=HTB&show_icons=true&theme=transparent)](https://github.com/Xabierland/HTB)
 
 </details>
 
