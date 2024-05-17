@@ -40,10 +40,6 @@ title="BSD">
 
 ### IDE
 
-<img src="img\ide\vscode.png"
-width="32"
-height="32"
-title="Visual Studio Code">
 <img src="img\ide\visual-basic.png"
 width="32"
 height="32"
@@ -52,14 +48,6 @@ title="Visual Studio">
 width="32"
 height="32"
 title="IntelliJ">
-<img src="img\ide\pycharm.png"
-width="32"
-height="32"
-title="PyCharm">
-<img src="img\ide\eclipse.png"
-width="32"
-height="32"
-title="Eclipse">
 <img src="img\ide\vim.png"
 width="32"
 height="32"
@@ -67,14 +55,14 @@ title="Vim">
 
 ### Programming languages
 
-<img src="img\pl\java.png"
-width="32"
-height="32"
-title="Java">
 <img src="img\pl\python.png"
 width="32"
 height="32"
 title="Python">
+<img src="img\pl\java.png"
+width="32"
+height="32"
+title="Java">
 <img src="img\pl\bash.png"
 width="32"
 height="32"
@@ -83,6 +71,10 @@ title="Bash">
 width="32"
 height="32"
 title="PHP">
+<img src="img\pl\rust.svg>"
+width="32"
+height="32"
+title="Rust">
 <img src="img\pl\c.png"
 width="32"
 height="32"
