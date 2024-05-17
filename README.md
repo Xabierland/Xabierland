@@ -40,18 +40,18 @@ title="BSD">
 
 ### IDE
 
-<img src="img\ide\visual-basic.png"
+<img src="img\ide\vscode.png"
 width="32"
 height="32"
-title="Visual Studio">
+title="Visual Studio Code">
 <img src="img\ide\intellij.png"
 width="32"
 height="32"
 title="IntelliJ">
-<img src="img\ide\vim.png"
+<img src="img\ide\nvim.png"
 width="32"
 height="32"
-title="Vim">
+title="NVim">
 
 ### Programming languages
 
