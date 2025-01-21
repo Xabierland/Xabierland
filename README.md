@@ -345,7 +345,16 @@ First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TIA&show_icons=true&theme=transparent)](https://github.com/Xabierland/TIA)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TIA-Practicas&show_icons=true&theme=transparent)](https://github.com/Xabierland/TIA-Practicas)
+
+
 Second quarter
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE)
+
+
 
 </details>
 </details>
