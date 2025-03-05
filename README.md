@@ -352,7 +352,12 @@ Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS-Proyecto)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE-Proyecto)
+
 
 
 
