@@ -14,7 +14,7 @@ function sayHello
     echo "Hello!!!"
     echo "My name is Xabier"
     echo "I'm from Spain"
-    echo "I ♥ sysadmin & DevSecOps"
+    echo "I ♥ System Administration & DevSecOps"
 }
 
 sayHello
@@ -53,6 +53,17 @@ width="32"
 height="32"
 title="Nano">
 
+### Documentation
+
+<img src="img\doc\tex.png"
+width="32"
+height="32"
+title="TeX">
+<img src="img\doc\md.png"
+width="32"
+height="32"
+title="LaTeX">
+
 ### Programming languages
 
 <img src="img\pl\python.png"
@@ -79,27 +90,8 @@ title="C">
 width="32"
 height="32"
 title="JavaScript">
-<img src="img\pl\sql.png"
-width="32"
-height="32"
-title="SQL">
 
 ### Tools
-
-#### Shell
-
-<img src="img\tools\bash.png"
-width="32"
-height="32"
-title="Bash">
-<img src="img\tools\zsh.png"
-width="32"
-height="32"
-title="ZSH">
-<img src="img\tools\powershell.png"
-width="32"
-height="32"
-title="Powershell">
 
 #### Version control
 
@@ -143,12 +135,16 @@ width="32"
 height="32"
 title="ELK">
 
-#### DevOps
+#### DevSecOps
 
 <img src="img\tools\docker.png"
 width="32"
 height="32"
 title="Docker">
+<img src="img\tools\portainer.png"
+width="32"
+height="32"
+title="Portainer">
 <img src="img\tools\podman.png"
 width="32"
 height="32"
@@ -157,10 +153,15 @@ title="Podman">
 width="32"
 height="32"
 title="Kubernetes">
+<img src="img\tools\rancher.png"
+width="32"
+height="32"
+title="Rancher">
 <img src="img\tools\helm.png"
 width="32"
 height="32"
 title="Helm">
+
 <img src="img\tools\ansible.png"
 width="32"
 height="32"
@@ -173,6 +174,18 @@ title="Terraform">
 width="32"
 height="32"
 title="ArgoCD">
+<img src="img\tools\sonarqube.png"
+width="32"
+height="32"
+title="SonarQube">
+<img src="img\tools\grafana.png"
+width="32"
+height="32"
+title="Grafana">
+<img src="img\tools\prometheus.png"
+width="32"
+height="32"
+title="Prometheus">
 
 #### Security
 
@@ -200,7 +213,6 @@ title="ZAP">
 width="32"
 height="32"
 title="sqlmap">
-
 
 ## 📂 Repos
 
@@ -321,7 +333,6 @@ First quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TIA-Practicas&show_icons=true&theme=transparent)](https://github.com/Xabierland/TIA-Practicas)
 
-
 Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS)
@@ -331,9 +342,6 @@ Second quarter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE-Proyecto)
-
-
-
 
 </details>
 </details>
