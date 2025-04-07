@@ -7,14 +7,14 @@
 xabierland@github:~$  cat presentation.sh
 
 ```bash
-#!/usr/bin/bash
+#!/usr/bin/sh
 
 function sayHello
 {
     echo "Hello!!!"
     echo "My name is Xabier"
     echo "I'm from Spain"
-    echo "I ♥ coding"
+    echo "I ♥ sysadmin & DevSecOps"
 }
 
 sayHello
@@ -44,14 +44,14 @@ title="BSD">
 width="32"
 height="32"
 title="Visual Studio Code">
-<img src="img\ide\intellij.png"
-width="32"
-height="32"
-title="IntelliJ">
 <img src="img\ide\nvim.png"
 width="32"
 height="32"
 title="NVim">
+<img src="img\ide\nano.png"
+width="32"
+height="32"
+title="Nano">
 
 ### Programming languages
 
@@ -63,10 +63,6 @@ title="Python">
 width="32"
 height="32"
 title="Java">
-<img src="img\pl\bash.png"
-width="32"
-height="32"
-title="Bash">
 <img src="img\pl\php.png"
 width="32"
 height="32"
@@ -79,22 +75,6 @@ title="Rust">
 width="32"
 height="32"
 title="C">
-<img src="img\pl\ada.png"
-width="32"
-height="32"
-title="ADA">
-<img src="img\pl\asm.png"
-width="32"
-height="32"
-title="Assembly">
-<img src="img\pl\html.png"
-width="32"
-height="32"
-title="HTML">
-<img src="img\pl\css.png"
-width="32"
-height="32"
-title="CSS">
 <img src="img\pl\js.png"
 width="32"
 height="32"
@@ -163,62 +143,43 @@ width="32"
 height="32"
 title="ELK">
 
-#### IA
-
-<img src="img\tools\gpt.png"
-width="32"
-height="32"
-title="GPT">
-<img src="img\tools\gc.png"
-width="32"
-height="32"
-title="GitHub Copilot">
-
 #### DevOps
 
 <img src="img\tools\docker.png"
 width="32"
 height="32"
 title="Docker">
+<img src="img\tools\podman.png"
+width="32"
+height="32"
+title="Podman">
 <img src="img\tools\kubernetes.png"
 width="32"
 height="32"
 title="Kubernetes">
-<img src="img\tools\apache.png"
+<img src="img\tools\helm.png"
 width="32"
 height="32"
-title="Apache">
-<img src="img\tools\nginx.png"
+title="Helm">
+<img src="img\tools\ansible.png"
 width="32"
 height="32"
-title="NGINX">
-<img src="img\tools\gcp.svg"
+title="Ansible">
+<img src="img\tools\terraform.png"
 width="32"
 height="32"
-title="Google Cloud Platform">
+title="Terraform">
+<img src="img\tools\argo.png"
+width="32"
+height="32"
+title="ArgoCD">
 
 #### Security
 
-<img src="img\tools\curl.png"
-width="32"
-height="32"
-title="curl">
-<img src="img\tools\zap.png"
-width="32"
-height="32"
-title="ZAP">
-<img src="img\tools\sqlmap.png"
-width="32"
-height="32"
-title="sqlmap">
 <img src="img\tools\mf.png"
 width="32"
 height="32"
 title="Metasploit">
-<img src="img\tools\wireshark.png"
-width="32"
-height="32"
-title="Wireshark">
 <img src="img\tools\burpsuit.png"
 width="32"
 height="32"
@@ -227,6 +188,19 @@ title="Burpsuit">
 width="32"
 height="32"
 title="NMAP">
+<img src="img\tools\wireshark.png"
+width="32"
+height="32"
+title="Wireshark">
+<img src="img\tools\zap.png"
+width="32"
+height="32"
+title="ZAP">
+<img src="img\tools\sqlmap.png"
+width="32"
+height="32"
+title="sqlmap">
+
 
 ## 📂 Repos
 
