@@ -62,7 +62,7 @@ title="TeX">
 <img src="img\doc\md.png"
 width="32"
 height="32"
-title="LaTeX">
+title="Markdown">
 
 ### Programming languages
 
