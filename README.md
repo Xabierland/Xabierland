@@ -14,7 +14,7 @@ function sayHello
     echo "Hello!!!"
     echo "My name is Xabier"
     echo "I'm from Spain"
-    echo "I ♥ System Administration & DevSecOps"
+    echo "I ♥ System Administration, DevSecOps & Cybersecurity"
 }
 
 sayHello
@@ -47,7 +47,7 @@ title="Visual Studio Code">
 <img src="img\ide\nvim.png"
 width="32"
 height="32"
-title="NVim">
+title="NeoVim">
 <img src="img\ide\nano.png"
 width="32"
 height="32"
@@ -95,121 +95,143 @@ title="JavaScript">
 
 #### Version control
 
-<img src="img\tools\git.png"
+<img src="img\vc\git.png"
 width="32"
 height="32"
 title="Git">
-<img src="img\tools\github.png"
+<img src="img\vc\github.png"
 width="32"
 height="32"
 title="GitHub">
-<img src="img\tools\gitlab.png"
+<img src="img\vc\gitlab.png"
 width="32"
 height="32"
 title="GitLab">
 
 #### Database
 
-<img src="img\tools\mysql.png"
+<img src="img\db\mysql.png"
 width="32"
 height="32"
 title="MySQL">
-<img src="img\tools\postgre.png"
+<img src="img\db\postgre.png"
 width="32"
 height="32"
 title="PostgreSQL">
-<img src="img\tools\sqlite.png"
+<img src="img\db\sqlite.png"
 width="32"
 height="32"
 title="SQLite">
-<img src="img\tools\mongodb.png"
+<img src="img\db\mongodb.png"
 width="32"
 height="32"
 title="MongoDB">
-<img src="img\tools\redis.png"
+<img src="img\db\redis.png"
 width="32"
 height="32"
 title="Redis">
-<img src="img\tools\elk.svg"
+<img src="img\db\elk.svg"
 width="32"
 height="32"
 title="ELK">
 
-#### DevSecOps
+#### System Administration
 
-<img src="img\tools\docker.png"
+<img src="img\sys\qemu.png"
+width="32"
+height="32"
+title="qemu">
+<img src="img\sys\virtualbox.png"
+width="32"
+height="32"
+title="VirtualBox">
+<img src="img\sys\vmware.png"
+width="32"
+height="32"
+title="VMware">
+<img src="img\sys\docker.png"
 width="32"
 height="32"
 title="Docker">
-<img src="img\tools\portainer.png"
-width="32"
-height="32"
-title="Portainer">
-<img src="img\tools\podman.png"
+<img src="img\sys\podman.png"
 width="32"
 height="32"
 title="Podman">
-<img src="img\tools\kubernetes.png"
+<img src="img\sys\lxc.png"
+width="32"
+height="32"
+title="LXC">
+<img src="img\sys\portainer.png"
+width="32"
+height="32"
+title="Portainer">
+<img src="img\sys\proxmox.png"
+width="32"
+height="32"
+title="Proxmox">
+<img src="img\sys\kubernetes.png"
 width="32"
 height="32"
 title="Kubernetes">
-<img src="img\tools\rancher.png"
+<img src="img\sys\rancher.png"
 width="32"
 height="32"
 title="Rancher">
-<img src="img\tools\helm.png"
-width="32"
-height="32"
-title="Helm">
 
-<img src="img\tools\ansible.png"
-width="32"
-height="32"
-title="Ansible">
-<img src="img\tools\terraform.png"
-width="32"
-height="32"
-title="Terraform">
-<img src="img\tools\argo.png"
+#### DevSecOps
+
+<img src="img\dso\argocd.png"
 width="32"
 height="32"
 title="ArgoCD">
-<img src="img\tools\sonarqube.png"
+<img src="img\dso\helm.png"
+width="32"
+height="32"
+title="Helm">
+<img src="img\dso\sonarqube.png"
 width="32"
 height="32"
 title="SonarQube">
-<img src="img\tools\grafana.png"
+<img src="img\dso\grafana.png"
 width="32"
 height="32"
 title="Grafana">
-<img src="img\tools\prometheus.png"
+<img src="img\dso\prometheus.png"
 width="32"
 height="32"
 title="Prometheus">
+<img src="img\dso\ansible.png"
+width="32"
+height="32"
+title="Ansible">
+<img src="img\dso\terraform.png"
+width="32"
+height="32"
+title="Terraform">
 
-#### Security
+#### Cybersecurity
 
-<img src="img\tools\mf.png"
+<img src="img\cs\mf.png"
 width="32"
 height="32"
 title="Metasploit">
-<img src="img\tools\burpsuit.png"
+<img src="img\cs\burpsuit.png"
 width="32"
 height="32"
 title="Burpsuit">
-<img src="img\tools\nmap.png"
+<img src="img\cs\nmap.png"
 width="32"
 height="32"
 title="NMAP">
-<img src="img\tools\wireshark.png"
+<img src="img\cs\wireshark.png"
 width="32"
 height="32"
 title="Wireshark">
-<img src="img\tools\zap.png"
+<img src="img\cs\zap.png"
 width="32"
 height="32"
 title="ZAP">
-<img src="img\tools\sqlmap.png"
+<img src="img\cs\sqlmap.png"
 width="32"
 height="32"
 title="sqlmap">
