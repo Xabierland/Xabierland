@@ -91,9 +91,7 @@ width="32"
 height="32"
 title="JavaScript">
 
-### Tools
-
-#### Version control
+### Version control
 
 <img src="img\vc\git.png"
 width="32"
@@ -108,7 +106,7 @@ width="32"
 height="32"
 title="GitLab">
 
-#### Database
+### Database
 
 <img src="img\db\mysql.png"
 width="32"
@@ -135,7 +133,7 @@ width="32"
 height="32"
 title="ELK">
 
-#### System Administration
+### System Administration
 
 <img src="img\sys\qemu.png"
 width="32"
@@ -178,7 +176,7 @@ width="32"
 height="32"
 title="Rancher">
 
-#### DevSecOps
+### DevSecOps
 
 <img src="img\dso\argocd.png"
 width="32"
@@ -209,7 +207,7 @@ width="32"
 height="32"
 title="Terraform">
 
-#### Cybersecurity
+### Cybersecurity
 
 <img src="img\cs\mf.png"
 width="32"
