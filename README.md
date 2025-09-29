@@ -364,6 +364,28 @@ Second quarter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE-Proyecto)
 
 </details>
+<details>
+<summary> TFG </summary>
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TFG&show_icons=true&theme=transparent)](https://github.com/Xabierland/TFG)-->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=arsys-cloud-builder&show_icons=true&theme=transparent)](https://github.com/Xabierland/arsys-cloud-builder)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=k8s-ansible&show_icons=true&theme=transparent)](https://github.com/Xabierland/k8s-ansible)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=k3s-ansible&show_icons=true&theme=transparent)](https://github.com/Xabierland/k3s-ansible)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=k0s-ansible&show_icons=true&theme=transparent)](https://github.com/Xabierland/k0s-ansible)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=rke2-ansible&show_icons=true&theme=transparent)](https://github.com/Xabierland/rke2-ansible)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=xabierbench&show_icons=true&theme=transparent)](https://github.com/Xabierland/xabierbench)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=multi-kube-bench&show_icons=true&theme=transparent)](https://github.com/Xabierland/multi-kube-bench)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=multi-kube-vegeta&show_icons=true&theme=transparent)](https://github.com/Xabierland/multi-kube-vegeta)-->
+
+</details>
 </details>
 
 ## 📊 Stats
