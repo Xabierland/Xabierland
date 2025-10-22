@@ -379,11 +379,11 @@ Second quarter
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=rke2-ansible&show_icons=true&theme=transparent)](https://github.com/Xabierland/rke2-ansible)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=xabierbench&show_icons=true&theme=transparent)](https://github.com/Xabierland/xabierbench)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=xabierbench&show_icons=true&theme=transparent)](https://github.com/Xabierland/xabierbench)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=multi-kube-bench&show_icons=true&theme=transparent)](https://github.com/Xabierland/multi-kube-bench)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=multi-kube-vegeta&show_icons=true&theme=transparent)](https://github.com/Xabierland/multi-kube-vegeta)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=multi-kube-vegeta&show_icons=true&theme=transparent)](https://github.com/Xabierland/multi-kube-vegeta)
 
 </details>
 </details>
